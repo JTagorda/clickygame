@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Akita",
+    "image": "https://images.dog.ceo/breeds/akita/An_Akita_Inu_resting.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Beagle",
+    "image": "https://images.dog.ceo/breeds/beagle/n02088364_17474.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Boxer",
+    "image": "https://images.dog.ceo/breeds/boxer/n02108089_5753.jpg"
+  },
+  {
+    "id": 4,
+    "name": "English Bulldog",
+    "image": "https://images.dog.ceo/breeds/bulldog-english/bunz.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Chihuahua",
+    "image": "https://images.dog.ceo/breeds/chihuahua/n02085620_1916.jpg"
+  },
+  {
+    "id": 6,
+    "name": "ChowChow",
+    "image": "https://images.dog.ceo/breeds/chow/n02112137_2133.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Corgi",
+    "image": "https://images.dog.ceo/breeds/corgi-cardigan/n02113186_10431.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Eskimo",
+    "image": "https://images.dog.ceo/breeds/eskimo/n02109961_3902.jpg"
+  },
+  {
+    "id": 9,
+    "name": "German Shepherd",
+    "image": "https://images.dog.ceo/breeds/germanshepherd/n02106662_6931.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Husky",
+    "image": "https://images.dog.ceo/breeds/husky/n02110185_10273.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Mix",
+    "image": "https://images.dog.ceo/breeds/mix/IMG_0004.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Puggle",
+    "image": "https://images.dog.ceo/breeds/puggle/IMG_075018.jpg"
+  }
+]
